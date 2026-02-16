@@ -5,7 +5,7 @@ description: "AI-powered SEO content optimization for Google ranking and AI sear
 
 # Top-level registry fields (for ClawhHub registry indexing)
 homepage: "https://unisai.vercel.app"
-repository: "https://github.com/unisai-dev/seo-optimizer-pro"
+repository: "https://github.com/vedantsingh60/seo-optimizer-pro"
 source: "included"  # Source code is included in this package
 required_env_vars:
   - "ANTHROPIC_API_KEY"   # Required if using Claude models
@@ -187,7 +187,7 @@ environment_variables:
 support:
   support_email: "support@unisai.vercel.app"
   website: "https://unisai.vercel.app"
-  github: "https://github.com/unisai-dev/seo-optimizer-pro"
+  github: "https://github.com/vedantsingh60/seo-optimizer-pro"
   documentation: "See SKILL.md in this package"
   response_time: "Best effort — community supported"
 

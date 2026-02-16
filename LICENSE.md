@@ -168,7 +168,7 @@ This agreement is governed by the laws of California, USA, without regard to con
 For questions about this license:
 - Email: support@unisai.vercel.app
 - Website: https://unisai.vercel.app
-- GitHub: https://github.com/unisai-dev/seo-optimizer-pro
+- GitHub: https://github.com/vedantsingh60/seo-optimizer-pro
 
 ---
 
