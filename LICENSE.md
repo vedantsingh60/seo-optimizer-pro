@@ -1,6 +1,6 @@
 # SEO Optimizer Pro - License Agreement
 
-**Version:** 1.0.4
+**Version:** 1.0.6
 **Copyright © 2026 UnisAI. All Rights Reserved.**
 
 ## License Type
@@ -173,8 +173,8 @@ For questions about this license:
 ---
 
 **Last Updated**: February 14, 2026
-**License Version**: 1.0.4
-**Skill Version**: 1.0.4
+**License Version**: 1.0.6
+**Skill Version**: 1.0.6
 **Status**: Active
 
 © 2026 UnisAI. All rights reserved.

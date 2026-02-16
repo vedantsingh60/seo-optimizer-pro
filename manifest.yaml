@@ -1,6 +1,6 @@
 name: "SEO Optimizer Pro"
 id: "seo-optimizer-pro"
-version: "1.0.4"
+version: "1.0.6"
 description: "AI-powered SEO content optimization for Google ranking and AI search (AEO). Multi-model support: Claude, GPT-5.2, Gemini, Llama, Mistral. Analyze readability, keywords, technical SEO with your choice of AI model."
 
 # Top-level registry fields (for ClawhHub registry indexing)
@@ -198,7 +198,7 @@ restrictions:
   - "Modifications allowed for personal use only (no redistribution of modified versions)"
 
 changelog:
-  "1.0.4":
+  "1.0.6":
     - "🔒 Fixed license contradiction — source code IS included for transparency"
     - "🔒 Changed license from 'proprietary' to 'free-to-use' with source included"
     - "🔒 Clarified IP restrictions — modifications allowed for personal use only"
@@ -207,7 +207,7 @@ changelog:
     - "📦 Updated install instructions to RECOMMEND selective SDK installation (not all)"
     - "📦 Clarified requirements.txt with version pins and usage notes"
     - "🌐 Added GitHub repository and documentation links to support section"
-    - "🔧 Updated all version references to 1.0.4 across manifest, LICENSE, SKILL.md"
+    - "🔧 Updated all version references to 1.0.6 across manifest, LICENSE, SKILL.md"
   "1.0.2":
     - "✨ Multi-model support: Claude, GPT-5.2, Gemini, Llama, Mistral"
     - "✨ Choose your preferred AI model for analysis"

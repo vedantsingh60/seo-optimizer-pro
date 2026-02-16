@@ -2,7 +2,7 @@
 
 > AI-powered SEO + AEO content optimization. Free to use.
 
-[![Version](https://img.shields.io/badge/version-1.0.4-blue)](https://github.com/vedantsingh60/seo-optimizer-pro/releases)
+[![Version](https://img.shields.io/badge/version-1.0.6-blue)](https://github.com/vedantsingh60/seo-optimizer-pro/releases)
 [![License](https://img.shields.io/badge/license-free--to--use-green)](LICENSE.md)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F77-brightgreen)](https://github.com/vedantsingh60/seo-optimizer-pro)
 [![ClawhHub](https://img.shields.io/badge/ClawhHub-SEO%20Optimizer%20Pro-orange)](https://clawhub.ai/unisai/seo-optimizer-pro)
